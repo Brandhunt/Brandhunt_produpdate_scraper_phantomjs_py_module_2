@@ -7,7 +7,7 @@
 
 # --- IMPORT SECTION --- #
 
-import os a
+import os
 import requests
 import json
 import importlib.util
